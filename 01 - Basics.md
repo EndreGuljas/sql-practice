@@ -6,30 +6,30 @@ This section covers the core SQL concepts used to retrieve, filter, sort, group,
 
 ### Retrieving and filtering data
 
-- [SELECT](SELECT.md)
-- [DISTINCT](DISTINCT.md)
-- [WHERE](WHERE.md)
-- [ORDER BY](ORDER-BY.md)
-- [LIMIT](LIMIT.md)
+- [SELECT](#select)
+- [DISTINCT](#distinct)
+- [WHERE](#where)
+- [ORDER BY](#order-by)
+- [LIMIT](#limit)
 
 ### Conditional filtering
 
-- [CASE](CASE.md)
-- [LIKE](LIKE.md)
-- [IN](IN.md)
-- [BETWEEN](BETWEEN.md)
+- [CASE](#case)
+- [LIKE](#like)
+- [IN](#in)
+- [BETWEEN](#between)
 
 ### Aggregation
 
-- [Aggregate Functions](AGGREGATE-FUNCTIONS.md)
-- [GROUP BY](GROUP-BY.md)
-- [HAVING](HAVING.md)
+- [Aggregate Functions](#aggregate-functions)
+- [GROUP BY](#group-by)
+- [HAVING](#having)
 
 ### NULL handling
 
-- [NULL](NULL.md)
-- [COALESCE](COALESCE.md)
-- [NULLIF](NULLIF.md)
+- [NULL](#null)
+- [COALESCE](#coalesce)
+- [NULLIF](#nullif)
 
 ## General SQL query structure
 
