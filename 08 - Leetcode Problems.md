@@ -1,3 +1,82 @@
+# LeetCode SQL 50
+
+---
+
+## Problem Index
+
+### 001–010
+
+- [001. Recyclable and Low Fat Products](01-Problems-001-010.md#001-recyclable-and-low-fat-products)
+- [002. Find Customer Referee](01-Problems-001-010.md#002-find-customer-referee)
+- [003. Big Countries](01-Problems-001-010.md#003-big-countries)
+- [004. Article Views I](01-Problems-001-010.md#004-article-views-i)
+- [005. Invalid Tweets](01-Problems-001-010.md#005-invalid-tweets)
+- [006. Replace Employee ID With The Unique Identifier](01-Problems-001-010.md#006-replace-employee-id-with-the-unique-identifier)
+- [007. Product Sales Analysis I](01-Problems-001-010.md#007-product-sales-analysis-i)
+- [008. Customer Who Visited but Did Not Make Any Transactions](01-Problems-001-010.md#008-customer-who-visited-but-did-not-make-any-transactions)
+- [009. Rising Temperature](01-Problems-001-010.md#009-rising-temperature)
+- [010. Average Time of Process per Machine](01-Problems-001-010.md#010-average-time-of-process-per-machine)
+
+---
+
+### 011–020
+
+- [011. Employee Bonus](02-Problems-011-020.md#011-employee-bonus)
+- [012. Students and Examinations](02-Problems-011-020.md#012-students-and-examinations)
+- [013. Managers with at Least 5 Direct Reports](02-Problems-011-020.md#013-managers-with-at-least-5-direct-reports)
+- [014. Confirmation Rate](02-Problems-011-020.md#014-confirmation-rate)
+- [015. Not Boring Movies](02-Problems-011-020.md#015-not-boring-movies)
+- [016. Average Selling Price](02-Problems-011-020.md#016-average-selling-price)
+- [017. Project Employees I](02-Problems-011-020.md#017-project-employees-i)
+- [018. Percentage of Users Attended a Contest](02-Problems-011-020.md#018-percentage-of-users-attended-a-contest)
+- [019. Queries Quality and Percentage](02-Problems-011-020.md#019-queries-quality-and-percentage)
+- [020. Monthly Transactions I](02-Problems-011-020.md#020-monthly-transactions-i)
+
+---
+
+### 021–030
+
+- [021. Immediate Food Delivery II](03-Problems-021-030.md#021-immediate-food-delivery-ii)
+- [022. Game Play Analysis IV](03-Problems-021-030.md#022-game-play-analysis-iv)
+- [023. Number of Unique Subjects Taught by Each Teacher](03-Problems-021-030.md#023-number-of-unique-subjects-taught-by-each-teacher)
+- [024. User Activity for the Past 30 Days I](03-Problems-021-030.md#024-user-activity-for-the-past-30-days-i)
+- [025. Product Sales Analysis III](03-Problems-021-030.md#025-product-sales-analysis-iii)
+- [026. Classes With at Least 5 Students](03-Problems-021-030.md#026-classes-with-at-least-5-students)
+- [027. Find Followers Count](03-Problems-021-030.md#027-find-followers-count)
+- [028. Biggest Single Number](03-Problems-021-030.md#028-biggest-single-number)
+- [029. Customers Who Bought All Products](03-Problems-021-030.md#029-customers-who-bought-all-products)
+- [030. Number of Employees Reporting to Each Employee](03-Problems-021-030.md#030-number-of-employees-reporting-to-each-employee)
+
+---
+
+### 031–040
+
+- [031. Primary Department for Each Employee](04-Problems-031-040.md#031-primary-department-for-each-employee)
+- [032. Triangle Judgement](04-Problems-031-040.md#032-triangle-judgement)
+- [033. Consecutive Numbers](04-Problems-031-040.md#033-consecutive-numbers)
+- [034. Product Price at a Given Date](04-Problems-031-040.md#034-product-price-at-a-given-date)
+- [035. Last Person to Fit in the Bus](04-Problems-031-040.md#035-last-person-to-fit-in-the-bus)
+- [036. Count Salary Categories](04-Problems-031-040.md#036-count-salary-categories)
+- [037. Employees Whose Manager Left the Company](04-Problems-031-040.md#037-employees-whose-manager-left-the-company)
+- [038. Exchange Seats](04-Problems-031-040.md#038-exchange-seats)
+- [039. Movie Rating](04-Problems-031-040.md#039-movie-rating)
+- [040. Restaurant Growth](04-Problems-031-040.md#040-restaurant-growth)
+
+---
+
+### 041–050
+
+- [041. Friend Requests II: Who Has the Most Friends](05-Problems-041-050.md#041-friend-requests-ii-who-has-the-most-friends)
+- [042. Investments in 2016](05-Problems-041-050.md#042-investments-in-2016)
+- [043. Department Top Three Salaries](05-Problems-041-050.md#043-department-top-three-salaries)
+- [044. Fix Names in a Table](05-Problems-041-050.md#044-fix-names-in-a-table)
+- [045. Patients With a Condition](05-Problems-041-050.md#045-patients-with-a-condition)
+- [046. Delete Duplicate Emails](05-Problems-041-050.md#046-delete-duplicate-emails)
+- [047. Second Highest Salary](05-Problems-041-050.md#047-second-highest-salary)
+- [048. Group Sold Products By The Date](05-Problems-041-050.md#048-group-sold-products-by-the-date)
+- [049. List the Products Ordered in a Period](05-Problems-041-050.md#049-list-the-products-ordered-in-a-period)
+- [050. Find Users With Valid E-Mails](05-Problems-041-050.md#050-find-users-with-valid-e-mails)
+
 # LeetCode SQL 50 — Problems 001–010
 
 ## Problems
